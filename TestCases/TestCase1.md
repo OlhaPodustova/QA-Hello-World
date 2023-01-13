@@ -7,7 +7,8 @@ Site https://qa-autocheck-test.goit.global/?token=d5fcc3783ba50fcac78b5a5ea8e4d6
 1. Find link to the main site in the header	
    - ***Expected result***: In the right corner there is a link to the main website of GoIT in the form of a logo.	
 2. Сlick on the Link to the main site in the header	
-   - ***Expected result***: the main site https://goit.global/ua/ opens 	
+   - ***Expected result***: the main site https://goit.global/ua/ opens 
+   	
 #  Test Case: ID 002
 ## Target Description:	
 The localization indicator in the header.
